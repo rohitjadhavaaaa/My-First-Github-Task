@@ -1,0 +1,6 @@
+<html>
+<title> WELCOME TO INTELLIPAAT </title>
+<body> 
+<h1> Linux OS AWS DEVOPS DOCKER GITHUB </h1>
+<h2> Refer this </h2>
+</html>
